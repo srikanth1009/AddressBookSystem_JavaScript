@@ -9,6 +9,7 @@ class Contact
     zip;
     phoneNo;
     email;
+    
 
     constructor(...params)
     {
